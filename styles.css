@@ -46,13 +46,11 @@ button {
   width: 100%;
 }
 .btn {
-  display: grid;
+  display: flex;
+  justify-content: space-evenly;
 
-  width: 100%;
-  justify-content: center;
-  align-content: space-between;
   margin-top: 20px;
 }
 h3 {
-  color: white;
+  color: #4ecca3;
 }
